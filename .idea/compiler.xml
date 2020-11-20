@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="024-springboot-dubbo-ssm-provider" />
+        <module name="023-springboot-dubbo-ssm-interface" />
+        <module name="022-springboot-dubbo-consumer" />
+        <module name="025-springboot-dubbo-ssm-consumer" />
+        <module name="021-springboot-dubbo-provider" />
+        <module name="026-springboot-java-1" />
+        <module name="020-springbboot-duubo-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="007-zk-userservice-provider" target="1.8" />
+      <module name="020-springbboot-duubo-interface" target="1.5" />
+      <module name="021-springboot-dubbo-provider" target="1.8" />
+      <module name="022-springboot-dubbo-consumer" target="1.8" />
+      <module name="023-springboot-dubbo-ssm-interface" target="1.5" />
+      <module name="024-springboot-dubbo-ssm-consumer" target="1.8" />
+      <module name="024-springboot-dubbo-ssm-provider" target="1.8" />
+      <module name="025-springboot-dubbo-ssm-consumer" target="1.8" />
+      <module name="026-springboot-java-1" target="1.8" />
+      <module name="ch01-springboot-jsp" target="1.8" />
+      <module name="ch12-springboot-mybatis" target="1.8" />
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="021-springboot-dubbo-provider" options="-parameters" />
+      <module name="022-springboot-dubbo-consumer" options="-parameters" />
+      <module name="024-springboot-dubbo-ssm-consumer" options="-parameters" />
+      <module name="024-springboot-dubbo-ssm-provider" options="-parameters" />
+      <module name="025-springboot-dubbo-ssm-consumer" options="-parameters" />
+      <module name="026-springboot-java-1" options="-parameters" />
+      <module name="ch01-springboot-jsp" options="-parameters" />
+      <module name="ch12-springboot-mybatis" options="-parameters" />
+      <module name="demo" options="-parameters" />
+    </option>
+  </component>
+</project>

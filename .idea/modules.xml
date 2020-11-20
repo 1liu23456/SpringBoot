@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/020-springbboot-duubo-interface/020-springbboot-duubo-interface.iml" filepath="$PROJECT_DIR$/020-springbboot-duubo-interface/020-springbboot-duubo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021-springboot-dubbo-provider/021-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/021-springboot-dubbo-provider/021-springboot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022-springboot-dubbo-consumer/022-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/022-springboot-dubbo-consumer/022-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023-springboot-dubbo-ssm-interface/023-springboot-dubbo-ssm-interface.iml" filepath="$PROJECT_DIR$/023-springboot-dubbo-ssm-interface/023-springboot-dubbo-ssm-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024-springboot-dubbo-ssm-provider/024-springboot-dubbo-ssm-provider.iml" filepath="$PROJECT_DIR$/024-springboot-dubbo-ssm-provider/024-springboot-dubbo-ssm-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/025-springboot-dubbo-ssm-consumer/025-springboot-dubbo-ssm-consumer.iml" filepath="$PROJECT_DIR$/025-springboot-dubbo-ssm-consumer/025-springboot-dubbo-ssm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/026-springboot-java-1/026-springboot-java-1.iml" filepath="$PROJECT_DIR$/026-springboot-java-1/026-springboot-java-1.iml" />
+    </modules>
+  </component>
+</project>
